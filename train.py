@@ -1,4 +1,3 @@
-#Looked at online github samuelharvard and riccardoD7
 import argparse
 import numpy as np
 import torch
